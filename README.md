@@ -1,4 +1,5 @@
 # Telegram Bot - Crypto Prices  
+![image alt](https://github.com/M0SENI/Crypto-telebot/blob/main/image.png)
 
 ## Project Description  
 A basic Telegram bot built with `telebot` that displays the price of USDT and BTC. This project is created just for fun and learning purposes.  
